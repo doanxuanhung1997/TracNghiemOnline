@@ -1,0 +1,134 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+/*Css header  */
+  .header{
+  	width: 100%;
+  	background-color: #ffff;
+  }
+  .header ul{
+  	list-style-type: none;
+    text-align: center;
+    overflow: hidden;	
+    padding-left: 50px;
+  }
+  .header ul li{
+  	color: #f1f1f1;
+    float: left;
+    margin-left:50px; 
+    height: 40px;
+    line-height: 50px;
+  }
+  .header a{
+  	text-decoration: none;
+    	display: block;
+  }
+  .header a:hover {
+    color: #333;
+  }
+
+
+  #menu_monhoc{
+    width: 100%;
+    background-color: #00bfbf;
+    text-align: center;
+  }
+  #menu_monhoc ul{
+      list-style-type: none;
+      overflow: hidden;
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+  }
+  #menu_monhoc ul li{
+      float: left;
+      width: 120px;
+      height: 40px;
+      line-height: 40px;
+  }
+  #menu_monhoc a{
+      text-decoration: none;
+      display: block;
+      color: #ffffff;
+  }
+  #menu_monhoc a:hover {
+      color: black;
+  }
+
+/*table view xem chi tiết đề thi*/
+  .table_dethi{
+    border: 1px solid black;
+    border-collapse: collapse;  
+  }
+
+  .table_dethi td{
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
+
+  .table_cauhoi td{
+    border: 0px solid #fff;
+    border-collapse: collapse; 
+  }
+  
+  /**/
+.danhsachdethi{
+  width: 100%;
+}
+.danhsachdethi ul{
+  list-style-type: none;
+  text-align: center;
+  overflow: hidden;  
+}
+.danhsachdethi ul li{
+    float: left;
+    width: 240px;
+    margin-left: 10px;
+}
+
+
+.container{
+  margin-top: 20px;
+}
+.t1{font-size:19px;}
+.cnt1{font-size:12px;}
+.f2{margin-left:-25px;}
+.f3{text-align:left;}
+.f4{background-color:orange;width:160px;height:40px;text-align:center;color:white;margin-top:5px;}
+
+.f6{margin-top:5px;}
+.btn1{background-color: #6b5d5d; color: #fff}
+.box1{width:14%;height:75px;background:#593c21;text-align:center;float:left;}
+.box2{width:86%;height:75px;background-color:#d8d4d4;float:right;}
+
+.link{color:white;font-size:17px;}
+.span1{background-color:GoldenRod;color:white;}
+.t3{display:inline-block;}
+.box3{width:20%;height:75px;background:Orchid;text-align:center;float:left;}
+.box4{width:80%;height:75px;background-color:#d8d4d4;float:right;}
+.f7{font-size:15px;margin-left:5px;}
+.f8{color:blueviolet;font-size:21px;}
+.f9{background-color:red;}
+.b1{margin-top:5px;margin-left:15px;}
+.span2{background-color:greenyellow;}
+
+
+.footer{
+    width: 100%;
+}
+.footer_company{background-color:#b2b2b2;margin-top:20px;}
+.fc1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 115px;
+}
+.fc2{
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.footer_link{margin-left: 100px ;width: 90%;margin-bottom:-20px;}
+

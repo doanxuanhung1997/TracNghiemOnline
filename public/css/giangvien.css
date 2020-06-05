@@ -1,0 +1,58 @@
+#bannertop{
+	border-bottom: 2px solid  white;
+	width: 100%;
+	background-color:  #D8D8D8;
+}
+#logo{
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+#hideshowmenu{
+	width: 40px;
+	height: 40px;
+	border-radius: 5px;
+}
+#sidebar{
+	position: relative;
+	width: 200px;
+	height: auto;
+	border-right: 4px solid #BDBDBD;
+	z-index: 100;
+	float: left;
+	position: absolute;
+	left: 0px;
+	background-color:  #D8D8D8;
+}
+#sidebar a{
+	color: black;
+	text-decoration: none;
+}
+.listmenu{
+	width: 100%;
+	height: auto;
+	line-height: 50px;
+	font-size: 15px;
+	cursor: pointer;
+	border: 1px solid #A4A4A4;
+	border-radius: 10px;
+	text-align: right;
+	padding-right: 15px;
+}
+.iconmenu{
+	width: 30px;
+	height: 30px;
+	border-radius: 50px;
+}
+#screenmain{
+	background:  white;
+	width: 85%;
+	height: 100%;
+	left: 200px;
+	position: absolute;
+	padding-left: 0px;
+
+}
+.icon{
+	width: 30px; height: 30px;
+}
